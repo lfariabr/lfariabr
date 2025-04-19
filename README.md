@@ -6,7 +6,6 @@ Passionate about turning complex ideas into real-world impact.
 
 ### 💼 What I Do
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white))
 - 🧠 Build & scale full-stack apps (Python, Django, FastAPI, PostgreSQL, React, Next.js)
 - 💬 Automate operations with CRMs, ERPs, WhatsApp APIs & custom marketing systems
 - 📊 Lead product intelligence & analytics to drive smarter decisions
