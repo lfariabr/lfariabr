@@ -1,6 +1,6 @@
 ## Hi there, I'm Luis 👋
 
-Passionate about turning complex ideas into real-world impact.
+Software Engineer / Project Lead passionate about turning complex ideas into real-world impact.
 
 ### Let’s Connect
 
