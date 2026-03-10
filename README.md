@@ -1,10 +1,6 @@
-## Hi there, I'm Luis 👋
+## Hi, I'm Luis 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lfariabr&show_icons=true&theme=dark)
 
-Software Engineer / Project Lead passionate about turning complex ideas into real-world impact.
-
-### Let’s Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/lfariabr)
-- ✍️ [dev.to](https://dev.to/lfariaus)
-- 🛠️ [Portfolio](https://luisfaria.dev)
-- 📬 lfariabr@gmail.com
+Software Engineer. Building things that matter.                                                                        
+                                                                                                                         
+· [LinkedIn](https://linkedin.com/in/lfariabr) · [Portfolio](https://luisfaria.dev) · [dev.to](https://dev.to/lfariaus)
